@@ -4,8 +4,7 @@
         {
             "Ad Group" : "Translate_HIGH_Spanish",
             "Max CPC" : 2.80,
-            "keywords" : [  // types : Broad, Phrase, Exact or Negative Broad Negative Phrase Negative Exact
-                            // Broads are fully modified (all words have a +prefix)
+            "keywords" : [  
                 { "Keyword" : "+spanish +translation +agency", "Criterion Type" : "Broad" },
                 { "Keyword" : "spanish translators", "Criterion Type" : "Phrase" },
                 { "Keyword" : "hie spanish translator", "Criterion Type" : "Exact" },
@@ -13,7 +12,7 @@
             ],
             "ads" : [
                 {
-                    "Headline" : "Spanish Translators",  // max length 25 chars
+                    "Headline" : "Spanish Translators",  
                     "Description Line 1" : "Find a Spanish translator fast",
                     "Description Line 2" : "Post a job, get applicants today",
                     "Display URL" : "www.oDesk.com/SpanishTranslators",
